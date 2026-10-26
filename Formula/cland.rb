@@ -1,9 +1,9 @@
 class Cland < Formula
   desc "Coordinate a crew of coding agents"
   homepage "https://cland.app"
-  url "https://codeload.github.com/Kealman/cland-v0/tar.gz/refs/tags/v0.2.1"
-  version "0.2.1"
-  sha256 "aeafac42bae49da2c13b98d6a89b8a24645afe06676281049319605c19deb444"
+  url "https://codeload.github.com/Kealman/cland-v0/tar.gz/refs/tags/v0.2.2"
+  version "0.2.2"
+  sha256 "672980d697eab0f93dc2894b1ea982d7f5390786ed6a49af4b36101f78d18a8f"
   license "Apache-2.0"
 
   depends_on "node@24"
